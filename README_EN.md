@@ -105,3 +105,9 @@ thiepgiangsinh/
 <p align="center">
   🎄 <em>May your Christmas sparkle with moments of love, laughter, and goodwill!</em> 🎅✨
 </p>
+
+---
+
+## Stars ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Dungautomation-dev/thiepgiangsinh&type=Date)](https://star-history.com/#Dungautomation-dev/thiepgiangsinh&Date)

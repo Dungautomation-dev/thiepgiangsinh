@@ -128,3 +128,9 @@ https://dungauto.github.io/thiepgiangsinh/?name=Hương%20Giang&nick=Công%20Ch�
 <p align="center">
   💙 <em>Chúc bạn và gia đình một mùa Giáng Sinh an lành, ấm áp và hạnh phúc!</em> ❄️🎄
 </p>
+
+---
+
+## Stars ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Dungautomation-dev/thiepgiangsinh&type=Date)](https://star-history.com/#Dungautomation-dev/thiepgiangsinh&Date)
